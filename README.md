@@ -17,12 +17,6 @@
             src="https://custom-icon-badges.demolab.com/github/followers/JoaoAguiar19?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://github.com/JoaoAguiar19?tab=repositories">
-        <img 
-            alt="Repositórios" 
-            src="https://custom-icon-badges.demolab.com/github/repos/JoaoAguiar19?style=for-the-badge&logo=repo&label=Repositórios&color=1e88e5" 
-        />
-    </a>
     <a href="mailto:joao.gabriel.de.aguiar@ccc.ufcg.edu.br">
         <img 
             alt="Email" 
