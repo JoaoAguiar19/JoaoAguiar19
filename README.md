@@ -107,3 +107,4 @@
 
 </p>
                 
+![Snake animation](https://github.com/JoaoAguiar19/JoaoAguiar19/blob/output/snake.svg)
