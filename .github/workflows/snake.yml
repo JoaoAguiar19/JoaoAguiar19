@@ -1,7 +1,7 @@
 name: Generate Snake
 
 on:
-  schedule: # executa automaticamente todo dia
+  schedule: # executa todo dia à meia-noite UTC
     - cron: "0 0 * * *"
   workflow_dispatch: # permite rodar manualmente
 
@@ -12,8 +12,10 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: JoaoAguiar19
-          outputs: dist/snake.svg
-      - name: Push snake.svg to the output branch
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+      - name: Push snake files to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
