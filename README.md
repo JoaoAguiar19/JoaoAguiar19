@@ -107,4 +107,5 @@
 
 </p>
                 
-![Snake animation](https://github.com/JoaoAguiar19/JoaoAguiar19/blob/output/snake.svg)
+![Snake animation](https://github.com/JoaoAguiar19/JoaoAguiar19/blob/output/snake.svg#gh-light-mode-only)
+![Snake animation dark](https://github.com/JoaoAguiar19/JoaoAguiar19/blob/output/snake-dark.svg#gh-dark-mode-only)
