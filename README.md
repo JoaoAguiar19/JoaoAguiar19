@@ -1,4 +1,4 @@
-# 🧑‍💻 João Aguiar
+#  João Aguiar
 
 **'Beginner Programmer'**
 
