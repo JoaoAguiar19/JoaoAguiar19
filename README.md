@@ -3,7 +3,7 @@
 **'Beginner Programmer'**
 
 <p align="left"> 
-    <a href="https://github.com/JoaoAguiar19?tab=repositories&sort=stargazers">
+    <!-- <a href="https://github.com/JoaoAguiar19?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
@@ -16,7 +16,7 @@
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/JoaoAguiar19?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
-    </a>
+    </a> -->
     <a href="https://github.com/JoaoAguiar19?tab=repositories">
         <img 
             alt="Repositórios"
@@ -33,7 +33,7 @@
 
 ---
 
-### 🤖 Languages ​​and Technology
+### Languages ​​and Technology
 
 <img 
     align="left" 
@@ -87,7 +87,7 @@
 <br/>
 <br/>
 
-### 📊 Statistics
+### Statistics
 
 <p>
   <img 
